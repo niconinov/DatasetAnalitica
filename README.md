@@ -1,3 +1,1 @@
-# DatasetAnalitica
-Github crardo para contener y leer todas la bases de datos
-resultantes del procesamiento de datos en la clase de analitica con el fin de leerlas en el nuevo colab destinado a crear el trablero
+Este estudio fue realizado en el marco del primer curso de la línea de énfasis de analítica de la carrera de ingeniería industrial y se centró en desarrollar un análisis sobre los patrones de hurtos de motocicletas en la ciudad de Medellín, explorando la relación entre la estratificación socioeconómica y la efectividad de la vigilancia mediante cámaras SIMM.
